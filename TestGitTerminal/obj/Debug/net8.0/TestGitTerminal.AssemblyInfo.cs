@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestGitTerminal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6535606755af1fc577f330f888894d8e57ca034d")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestGitTerminal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestGitTerminal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
